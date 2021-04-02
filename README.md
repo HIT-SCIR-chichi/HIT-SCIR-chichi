@@ -9,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![HIT-SCIR-chichi github stats](https://github-readme-stats.vercel.app/api?username=HIT-SCIR-chichi)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/HIT-SCIR-chichi?username=HIT-SCIR-chichi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIT-SCIR-chichi)](https://github.com/anuraghazra/github-readme-stats)
